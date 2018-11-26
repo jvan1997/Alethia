@@ -1,0 +1,22 @@
+{
+  "name": "alethia",
+  "version": "1.0.0",
+  "description": "A dApp that issues and verifies digital certificates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenil04/Alethia.git"
+  },
+  "author": "Jenil Thakker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenil04/Alethia/issues"
+  },
+  "homepage": "https://github.com/jenil04/Alethia#readme",
+  "dependencies": {
+    "react": "^16.6.3"
+  }
+}
